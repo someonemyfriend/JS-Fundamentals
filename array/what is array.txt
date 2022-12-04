@@ -1,0 +1,38 @@
+ARRAYS 
+
+Sometimes in your applications you might be dealing with
+a list of objects
+For example the list of products in a shopping cart
+or the list of colors the user has selescted
+or to do list and so on
+
+in situations like that you use array :)
+
+Let's imagine you are creating a list of things
+
+--------------------------
+img of list of things here
+--------------------------
+
+Now this list is a real-world example of an array.
+Let's call the piece of paper "listOfItems".
+The piece of paper called "listOfItems" would be our array.
+The items that will be listed on the paper are array values or array elements.
+
+
+Let's see how we can create an empty array:
+
+let listOfItems = [];
+
+So on the left we have our variable name "listOfItems",
+and we have pair of brackets on the right that shows us this variable as an empty
+array.
+
+This => [] brackets which we creating an array is better known as the array literal notation.
+
+Now, we can create a non-empty array, we can place the items we want inside the brackets
+and separate them by commas:
+
+let listOfItems = ["Saab", "Volvo", "BMW"];
+
+
